@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Folk 😁
+### I wanna be pentester 👨🏻‍💻
+My full name is Krittawat Thongnoppakao.
+
+
+
+- 🌱 I’m currently studying Computer Engineering at Mahidol University.
+- 🔭 I’m currently looking for a penetration testing jobs.
+
+## Connect with me:
+---
+[![linkin](https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png)][1]
+---
+[1]:https://www.linkedin.com/in/krittawat-thongnoppakao/
 
 <!--
 **folk44/folk44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
