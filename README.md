@@ -8,7 +8,7 @@ My full name is Krittawat Thongnoppakao.
 - 🔭 I’m currently looking for a penetration testing jobs.
 
 ## Connect with me:
-- 📫 krittawat.t@hotmail.co.th
+- 📨 krittawat.t@hotmail.co.th
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)][1]
 
