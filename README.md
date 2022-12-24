@@ -5,12 +5,28 @@ My full name is Krittawat Thongnoppakao.
 
 
 - 🌱 I’m currently studying Computer Engineering at Mahidol University.
-- 🔭 I’m currently looking for a penetration testing jobs.
+
+
+## My skills:
+- Programming Language  
+  
+  ![Python](https://skillicons.dev/icons?i=py)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+- Tools  
+  ![Vim](https://skillicons.dev/icons?i=vim)
+  ![Linux](https://skillicons.dev/icons?i=linux)
+
 
 ## Connect with me:
 - 📨 krittawat.t@hotmail.co.th
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)][1]
+  [![Linkedin](https://skillicons.dev/icons?i=linkedin)][1]
 
 [1]:https://www.linkedin.com/in/krittawat-thongnoppakao/
 
