@@ -1,26 +1,36 @@
-### Hi there 👋 I'm Folk 😁
+### Hi there 👋 I'm Krittawat 😁
+You can call me Folk.
 ### I wanna be pentester 👨🏻‍💻
-My full name is Krittawat Thongnoppakao.
 
 
+### 🏫 I’m currently studying Computer Engineering at Mahidol University.
+### 🌱 I’m currently learning ...
+- Cybersecurity
+  - [ ] Ethical Hacking &ensp; [by z-Security]
+  - [ ] Website Hacking / Penetration Testing &ensp; [by z-Security]
+  - [ ] Python & Ethical Hacking &ensp; [by z-Security]
+  - [ ] Network Hacking
 
-- 🌱 I’m currently studying Computer Engineering at Mahidol University.
+- Artificial intelligence (AI)
+  - [ ] Machine Learning &ensp; [by Andrew Ng]
+
 
 
 ## My skills:
 - Programming Language  
   
-  ![Python](https://skillicons.dev/icons?i=py)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
+  ![](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js)
+
 
 - Tools  
-  ![Vim](https://skillicons.dev/icons?i=vim)
-  ![Linux](https://skillicons.dev/icons?i=linux)
+  ![](https://skillicons.dev/icons?i=vim,linux)
+
+
+## GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=folk44&show_icons=true&theme=radical)](https://github.com/folk44/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folk44&layout=compact&theme=radical)](https://github.com/folk44/github-readme-stats)
 
 
 ## Connect with me:
@@ -29,6 +39,19 @@ My full name is Krittawat Thongnoppakao.
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)][1]
 
 [1]:https://www.linkedin.com/in/krittawat-thongnoppakao/
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
