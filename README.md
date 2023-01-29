@@ -35,7 +35,7 @@ You can call me Folk.
 
 
 ## Connect with me:
-- 📨 krittawat.t@hotmail.co.th
+- 📨 krittawat.th@outlook.com
 
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)][1]
 
