@@ -12,7 +12,8 @@ You can call me Folk.
   - [ ] Network Hacking
 
 - Artificial intelligence (AI)
-  - [ ] Machine Learning &ensp; [by Andrew Ng]
+  - [ ] Machine Learning Specialization &ensp; [by Andrew Ng]
+  - [ ] Deep Learning Specialization &ensp; [by Andrew Ng]
 
 
 
